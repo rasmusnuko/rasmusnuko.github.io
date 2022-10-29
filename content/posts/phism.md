@@ -10,7 +10,7 @@ We had to hand in a one-pager containing our initial first sketch and answers to
 One of my supervisors had already build something similar before, and suggested I looked at the article [Physically Informed Sonic Modeling (PhISM): Synthesis of Percussive Sounds](https://www.jstor.org/stable/3681012#metadata_info_tab_contents) by Perry Cook from 1997.
 
 ## Questions and Goals
-In my first semester, I have two additional courses: 'Sound Processing' and 'Music Perception and Cognition'.
+In my first semester, I have three courses: NIME, 'Sound Processing' and 'Music Perception and Cognition'.
 For each course we have to do a mini project, and I will incorporate this NIME in all three.
 
 The mini project in: 
