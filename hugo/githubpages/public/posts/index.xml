@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://rasmusnuko.github.io/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2022 13:53:27 +0200</lastBuildDate><atom:link href="https://rasmusnuko.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://rasmusnuko.github.io/posts/test/</link>
+      <pubDate>Sat, 29 Oct 2022 13:53:27 +0200</pubDate>
+      
+      <guid>https://rasmusnuko.github.io/posts/test/</guid>
+      <description> Test blog post Link to heading Topic of today is &amp;hellip; Link to heading </description>
+    </item>
+    
+  </channel>
+</rss>
