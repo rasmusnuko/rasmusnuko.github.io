@@ -13,6 +13,8 @@ enableEmoji = true
 
 publishDir = "docs"
 
+
+
 [params]
 author = "Rasmus Nuko"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
@@ -28,18 +30,19 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
+favicon = "/images/favicon-64x64.png"
 
 [[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/rasmusnuko/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/nuko/"
 
 [languages.en]
 languageName = ":uk:"
