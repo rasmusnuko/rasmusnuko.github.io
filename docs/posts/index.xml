@@ -13,9 +13,7 @@
       <pubDate>Sat, 29 Oct 2022 13:53:27 +0200</pubDate>
       
       <guid>https://rasmusnuko.github.io/posts/phism/</guid>
-      <description>Intention Link to heading This blog post will show the development process of a percussive real time synth.
-Prior research Link to heading After telling my supervisors I wanted to build a percussive NIME, one of them suggested I looked at the article Physically Informed Sonic Modeling (PhISM): Synthesis of Percussive Sounds by Perry Cook from 1997.
-One-pager containing initial first sketch of NIME and answers to some guiding quetions can be seen in this PDF document.</description>
+      <description>Background Link to heading For my &amp;lsquo;New Interfaces of Musical Expression&amp;rsquo; (NIME) course we have to do a mini project where we build an instrument. We had to hand in a one-pager containing our initial first sketch and answers to some guiding quetions. My one-pager can be seen in this PDF document. One of my supervisors had already build something similar before, and suggested I looked at the article Physically Informed Sonic Modeling (PhISM): Synthesis of Percussive Sounds by Perry Cook from 1997.</description>
     </item>
     
   </channel>
