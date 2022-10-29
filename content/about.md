@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-10-29T14:19:35+02:00
-draft: true
+draft: false
 ---
 
 My name is Rasmus Nuko Jørgensen and I'm based in Denmark.
