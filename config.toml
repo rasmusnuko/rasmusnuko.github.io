@@ -23,7 +23,7 @@ avatarURL = "/images/me.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 rtl = false
-colorScheme = "dark"
+colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count
