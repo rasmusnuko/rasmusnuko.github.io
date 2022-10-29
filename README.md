@@ -1,4 +1,3 @@
-# Personal GitHub pages
+# [Personal webpage](https://rasmusnuko.github.io) on GitHub Pages
 
-[**Visit the website.**](http://rasmusnuko.github.io)<br>
-
+Website is made with [HUGO](https://github.com/gohugoio/hugo).
