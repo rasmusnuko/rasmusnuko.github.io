@@ -18,3 +18,12 @@ The mini project in:
 + NIME is going to be the actual building, deciding on hardware components, mapping sensor data to the software.
 + Music Perc.&Cogn. had some recommendations for projects, and there was one on how people percieve the timing og notes with short/long attacks. The idea will be to test how people try to play my NIME in time with varrying attack times.
 
+## Development
+At first I implemented the code from page 45 the PhISM article in Python. The code can be seen [here](https://github.com/rasmusnuko/percussionsynth/blob/main/src/concept.py).
+This is more or less a one to one copy of Perry Cook's code, just to hear what it sounds like.
+Two configurations can be seen in the bottom of my code, and both can be heard below.
+The first one is the one is the one presented in Perry Cook's article, and the other is a higher pitched shaker with more system decay and at a faster tempo.
+
+{{< audio src="/audio/perryshaker.wav" class="something" >}}
+
+{{< audio src="/audio/highshaker.wav" class="something" >}}
