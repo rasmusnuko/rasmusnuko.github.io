@@ -35,7 +35,6 @@ maxSeeAlsoItems = 5
   keywords = "blog,developer,personal"
   info = ["Backend", "Music", "DSP"]
   avatarURL = "/images/me.jpg"
-  gravatar = "rnukoj@gmail.com"
   dateFormat = "January 2, 2006"
   since = 2022
 
