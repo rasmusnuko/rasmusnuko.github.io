@@ -27,12 +27,14 @@ I went with Sound and Music Computing, as it combines two of my interests: Sound
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://rasmusnuko.github.io/posts/test/</link>
+      <title>PhISM Percussion Synth</title>
+      <link>https://rasmusnuko.github.io/posts/phism/</link>
       <pubDate>Sat, 29 Oct 2022 13:53:27 +0200</pubDate>
       
-      <guid>https://rasmusnuko.github.io/posts/test/</guid>
-      <description> Test blog post Link to heading Topic of today is &amp;hellip; Link to heading </description>
+      <guid>https://rasmusnuko.github.io/posts/phism/</guid>
+      <description>Intention Link to heading This blog post will show the development process of a percussive real time synth.
+Prior research Link to heading After telling my supervisors I wanted to build a percussive NIME, one of them suggested I looked at the article Physically Informed Sonic Modeling (PhISM): Synthesis of Percussive Sounds by Perry Cook from 1997.
+One-pager containing initial first sketch of NIME and answers to some guiding quetions can be seen in this PDF document.</description>
     </item>
     
   </channel>
