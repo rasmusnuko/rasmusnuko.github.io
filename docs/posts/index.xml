@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rasmus Nuko</title>
+    <link>https://rasmusnuko.github.io/posts/</link>
+    <description>Recent content in Posts on Rasmus Nuko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Oct 2022 13:53:27 +0200</lastBuildDate><atom:link href="https://rasmusnuko.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhISM Percussion Synth</title>
+      <link>https://rasmusnuko.github.io/posts/phism/</link>
+      <pubDate>Sat, 29 Oct 2022 13:53:27 +0200</pubDate>
+      
+      <guid>https://rasmusnuko.github.io/posts/phism/</guid>
+      <description>Background Link to heading For my &amp;lsquo;New Interfaces of Musical Expression&amp;rsquo; (NIME) course we have to do a mini project where we build an instrument. We had to hand in a one-pager containing our initial first sketch and answers to some guiding quetions. My one-pager can be seen in this PDF document. One of my supervisors had already build something similar before, and suggested I looked at the article Physically Informed Sonic Modeling (PhISM): Synthesis of Percussive Sounds by Perry Cook from 1997.</description>
+    </item>
+    
+  </channel>
+</rss>
