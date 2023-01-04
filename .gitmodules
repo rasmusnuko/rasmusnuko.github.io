@@ -1,3 +1,6 @@
 [submodule "hugo/themes/hugo-coder"]
 	path = hugo/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-elate-theme"]
+	path = themes/hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme/
