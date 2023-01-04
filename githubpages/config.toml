@@ -3,6 +3,7 @@ baseurl = "https://localhost:1313"
 title = "IT Labs Denmark"
 languageCode = "da-DK"
 theme = "hugo-elate-theme"
+
 publishDir = "docs"
 
 [params]
